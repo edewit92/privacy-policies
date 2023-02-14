@@ -1,4 +1,4 @@
-#QuoteBook - Privacy Policy
+# QuoteBook - Privacy Policy
 
 This app does not store user data.
 
